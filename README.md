@@ -6,9 +6,9 @@
 
 👍️`follow with me`
 
-- take the ingredient [click here]()
+- take the ingredient [click here](https://github.com/28nik/urban-eureka/blob/main/ingredients.md)
 
-- check the recipes [click here]()
+- check the recipes [click here](https://github.com/28nik/urban-eureka/blob/main/recipes.md)
 
 - **Done**
 
